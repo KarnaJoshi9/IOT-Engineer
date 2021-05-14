@@ -2,8 +2,7 @@
 > IOT Simulation of Sensor Data.
 
 ## General Information
-- For the initial stage I have executed a python program which can be used to acquire sensor data and convert the data into csv file format.
-- For the next stage to make an Edge Program for transfering or uploading this file on server I tried different methods as follows:
+- For the initial stage to make an Edge Program for transfering or uploading this file on server I tried different methods as follows:
 - Using python I converted csv file to data frame in python using pandas.
 - Then, for sending the data to server I used firstly my localhost host as my edge cloud server. I sent the csv data to my edge server in the form of HTML file.
 - Drawback here is this method was not able for getting a continous loop of data transfer.
