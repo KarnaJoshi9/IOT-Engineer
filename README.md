@@ -9,7 +9,7 @@
 - For understanding http server connection I tried to send this csv data to server. I tried to use flask module in python
 - Drawback- The entire data set was being sent in one go and not in single rows.
 - I also learned socket connection with server and client python files containing socket connection program. Transmission of data was successful in this conncection.
-- Overall for the above project I learned to acquire data from sensor, convert it into csv file, sent this csv file to edge server, learned to use flask module to send data to server, how to establish server connection between server and client using socket programming
+- Overall for the above project I learned to convert it into csv file,convert data into data frame using pandas and get each data point after certain interval in pycharm, sent this csv file to edge server, learned to use flask module to send data to server, how to establish server connection between server and client using socket programming
 
 ## Technologies Used
 - Python - 3.9
